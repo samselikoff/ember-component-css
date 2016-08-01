@@ -86,6 +86,8 @@ ENV['ember-component-css'] = {
 
 **namespacing(_enabled_)**
 
+> Note: This feature is available in 0.2.0-beta.6. To install, run `ember install ember-component-css@beta`.
+
 Defaults to true. Set this option to `false` to disable the namespacing feature of Ember Component CSS.
 
 ```js
